@@ -1,0 +1,348 @@
+.Logoandcnt {
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  /* justify-content: space-evenly; */
+  flex-direction: column;
+  align-items: center;
+  width: 20rem;
+  height: 85rem;
+  border: 1px solid rgba(0, 0, 0, 0.219);
+  border-radius: 5px;
+  padding-top: 2rem;
+}
+.color1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.maindv {
+  border-radius: 5px;
+  /* padding-bottom: 16rem; */
+  height: 140rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.firstdivtolast {
+  background-color: white;
+  width: 20rem;
+  border: 1px solid rgba(0, 0, 0, 0.219);
+  border-radius: 5px;
+}
+.centercontalih {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 20vh;
+  padding-top: 2rem;
+}
+.Benze {
+  font-size: 36px;
+}
+.illustrator {
+  font-size: 16px;
+  text-align: center;
+}
+.linkcopy {
+  font-size: 12px;
+}
+.locationbt {
+  background: none;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+.btflbl {
+  border-radius: 25px;
+  border: none;
+  background-color: rgb(44, 44, 248);
+  color: white;
+  width: 15rem;
+  height: 2rem;
+  font-weight: bold;
+  font-size: 16px;
+}
+.btflbl:hover {
+  background-color: rgb(34, 34, 207);
+}
+.btmswh {
+  border-radius: 25px;
+  border: none;
+  background-color: white;
+  color: rgb(44, 44, 248);
+  width: 15rem;
+  height: 2rem;
+  font-weight: bold;
+  font-size: 16px;
+  border: 1px solid rgba(97, 111, 175, 0.486);
+}
+.btmswh:hover {
+  background-color: rgba(47, 106, 184, 0.151);
+  border: 1px solid rgba(84, 133, 197, 0.685);
+}
+.Workbt {
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  width: 6rem;
+  height: 2rem;
+  border: none;
+  font-weight: bold;
+}
+.Workbtn {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-radius: 25px;
+  width: 6rem;
+  height: 2rem;
+  border: none;
+  font-weight: bold;
+}
+.Mainthing {
+  padding-top: 18rem;
+  position: relative;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.twobtofwork {
+  width: 15rem;
+  display: flex;
+  justify-content: space-evenly;
+}
+.box1img {
+  width: 23rem;
+  height: 20rem;
+  border-radius: 10px;
+}
+.cntdivforbig {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 130rem;
+  /* padding-top: 25rem; */
+}
+.boxdivbg {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50rem;
+}
+.boxinsidebox {
+  border: 1px solid rgba(13, 0, 59, 0.349);
+  background-color: white;
+  width: 18rem;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  padding-left: 1rem;
+  border-radius: 5px;
+  height: 7rem;
+  padding-top: 1rem;
+}
+.foralighnmark {
+  display: flex;
+  width: 16rem;
+}
+.textonlydiva {
+  display: flex;
+  flex-direction: column;
+}
+.downbgbg {
+  border-bottom: 1px solid black;
+  font-weight: bold;
+  font-size: 18px;
+}
+.contentalighnsidetoside {
+  display: flex;
+  justify-content: space-between;
+  width: 19rem;
+}
+.fourctmain {
+  /* background-color: brown; */
+}
+.ONTHEWEB {
+  width: 19rem;
+  display: flex;
+  flex-direction: column;
+  height: 7rem;
+  justify-content: space-between;
+}
+.ONTHEWEB1 {
+  width: 19rem;
+  display: flex;
+  flex-direction: column;
+  height: 5rem;
+  justify-content: space-between;
+}
+.ONTHEWEB2 {
+  width: 19rem;
+  display: flex;
+  flex-direction: column;
+  height: 5rem;
+  justify-content: space-between;
+}
+.ONTHEWEB3 {
+  width: 19rem;
+  display: flex;
+  flex-direction: column;
+  height: 5rem;
+  justify-content: space-between;
+}
+.ONTHEWEB4 {
+  width: 19rem;
+  display: flex;
+  flex-direction: column;
+  height: 5rem;
+  justify-content: space-between;
+}
+.onth {
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(138, 126, 126);
+}
+.fdtu {
+  width: 19rem;
+  height: 2rem;
+  border-radius: 25px;
+  border: 1px solid rgba(128, 128, 128, 0.589);
+  font-size: 12px;
+  font-weight: bold;
+  background-color: white;
+}
+.fdtu:hover {
+  background-color: rgba(182, 178, 178, 0.438);
+}
+.marlkaroowe:hover {
+  color: rgb(45, 45, 197);
+}
+.ont {
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(53, 48, 48);
+}
+.but10 {
+  background: none;
+  border: none;
+  font-weight: bold;
+  color: rgb(53, 48, 48);
+}
+.btview {
+  width: 19.5rem;
+}
+.for100rd {
+  border-radius: 100px;
+  width: 40px;
+  height: 40px;
+}
+.CreativesofHungary22 {
+  display: flex;
+  flex-direction: column;
+}
+.boxctbtalitx {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid rgba(0, 0, 0, 0.377);
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+.bt1212 {
+  background: none;
+  border: none;
+  font-weight: bold;
+}
+.bt2121 {
+  background: none;
+  border: none;
+  color: gray;
+}
+.bt12 {
+  background: none;
+  border: none;
+  color: gray;
+}
+.bigtext {
+  width: 18rem;
+}
+.onth2 {
+  padding-top: 1rem;
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(138, 126, 126);
+}
+.btflmgmgfl {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-bottom: 1rem;
+  height: 6rem;
+}
+@media only screen and (max-width: 500px){
+  .Mainthing{
+    display: flex;
+    flex-direction: column;
+  }
+  .fourctmain{
+    display: none;
+  }
+  .ONTHEWEB{
+    display: none;
+  }
+  .ONTHEWEB1{
+    display: none;
+  }
+  .btview{
+    display: none;
+  }
+  .ONTHEWEB2{
+    display: none;
+  }
+  .ONTHEWEB3{
+    display: none;
+  }
+  .firstdivtolast{
+    display: none;
+  }
+  .maindv{
+    width: 250px;
+    height: 35rem;
+    padding-right: 4.3rem;
+    /* padding-top: 6rem; */
+    padding-bottom: 4rem;
+  }
+.boxdivbg{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 375px;
+  height: 100rem;
+}
+.Logoandcnt{
+  background: none;
+  border: none;
+}
+.Mainthing{
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.imgleft{
+  border-radius: 100px;
+}
+.cntdivforbig{
+  width: 375px;
+  height: 250rem;
+}
+.box1img{
+  width:90%;
+}
+.twobtofwork{
+  width: 375px;
+  padding-bottom: 2rem;
+}
+}

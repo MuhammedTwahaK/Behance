@@ -1,0 +1,12 @@
+.imgonealign {
+  padding-top: 4rem;
+  height: 15rem;
+  width: 100%;
+  position: absolute;
+}
+@media only screen and (max-width: 500px){
+  .imgonealign{
+    width: 375px;
+    height: 8rem;
+  }
+}
